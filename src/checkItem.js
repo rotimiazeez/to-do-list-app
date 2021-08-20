@@ -13,4 +13,4 @@ const checkItem = (btn, arr) => {
   }
   localStorage.setItem('myToDos', JSON.stringify(newArr));
 };
-export default checkItem; 
+export default checkItem;

@@ -16,7 +16,7 @@ setToDoArr();
 const listWrap = document.querySelector('.todo-list-wrap');
 // IMPLEMENT TO DO ITEMS TO SCREEN
 const implementToDoItems = () => {
-toDoArr.forEach((item) => {
+  toDoArr.forEach((item) => {
     let isCompleted = '';
     let completedClass = '';
     if (item.completed) {
