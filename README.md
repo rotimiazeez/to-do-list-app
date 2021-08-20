@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Link](coming soon)
+[Live Link](https://deploy-preview-3--rotimiazeez-to-do-list-app.netlify.app/)
 
 ## Getting Started
 
@@ -59,6 +59,12 @@ You can also check against Webhint:
 
 ```bash
 npx hint --telemetry=off .
+```
+
+You can run the page automatically to your browser at port 8080:
+
+```bash
+npm start
 ```
 
 ## 👤 Authors
