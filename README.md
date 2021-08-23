@@ -2,7 +2,7 @@
 
 # To-Do List
 
-> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. This is a simple website that allows for doing that, it is built using ES6 and Webpack!
 
 
 Additional description about the project and its features.
@@ -16,7 +16,9 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Link](https://deploy-preview-3--rotimiazeez-to-do-list-app.netlify.app/)
+[Live Link](https://rotimiazeez.github.io/to-do-list-app/dist/#)
+
+![screenshot (13)](https://user-images.githubusercontent.com/44624138/130476242-576f1b79-282c-4651-b1d7-10b22408d9c2.png)
 
 ## Getting Started
 
